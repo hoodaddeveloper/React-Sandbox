@@ -9,5 +9,5 @@ createRoot(document.getElementById('root')).render(
     <header>header</header>
     <section>content</section>
     <footer>footer</footer>
-  </StrictMode>,
+  </StrictMode>
 )
